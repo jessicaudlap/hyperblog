@@ -3,8 +3,4 @@ Este es un test
 Hola mundo hoy es 3 de dic
 Github
 
-bye
-
-otro párrafo mas
-hablaremos de su vida
-Esta terminando su maestría
+Mañana nos enfocaremos en su vida laboral
